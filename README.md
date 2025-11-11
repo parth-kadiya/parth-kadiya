@@ -3,6 +3,10 @@
 <h1 align="center">👋 Hi, I'm Parth Kadiya</h1>
 <h3 align="center">A Passionate Frontend Developer from Ahmedabad 🇮🇳</h3>
 
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/137335568?v=4" width="150" style="border-radius: 50%; box-shadow: 0 0 10px rgba(0,0,0,0.3);" alt="Parth Kadiya Avatar"/>
+</p>
+
 ---
 
 ### 🧠 About Me  
@@ -14,25 +18,24 @@
 
 ---
 
-### 🛠️ Tech Stack  
+### ⚙️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,photoshop,mysql,php,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-### 🚀 Projects Highlight
-- 🌐 **Doctor Portfolio Website** — Modern responsive doctor portfolio site with video background and animations  
-- 💼 **Employee Management System** — Full CRUD with search & pagination using HTML, CSS, JS  
-- 🧑‍💻 **Interactive Portfolio** — React-based animated personal portfolio with sections for projects, experience & contact
+### 🚀 Projects Highlight  
+💊 **Doctor Portfolio Website** — Responsive doctor portfolio with background video & animations  
+🧑‍💼 **Employee Management System** — Full CRUD + pagination + search filter using HTML, CSS & JS  
+🎨 **Interactive Portfolio** — React-based animated site with sections for projects, experience & contact
 
 ---
 
-### 📊 GitHub Stats & Activity
-
+### 📊 GitHub Stats & Activity  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parthkadiya&show_icons=true&theme=radical" alt="GitHub Stats" height="180em" />
-  <img src="https://streak-stats.demolab.com?user=parthkadiya&theme=radical" alt="GitHub Streak" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=parthkadiya&show_icons=true&theme=radical" height="180em"/>
+  <img src="https://streak-stats.demolab.com?user=parthkadiya&theme=radical" height="180em"/>
 </p>
 
 <p align="center">
@@ -41,20 +44,27 @@
 
 ---
 
-### 🏆 Achievements & Highlights
-- 🥇 Built and deployed multiple real-world web projects  
-- 🚀 Published portfolio and backend using **React.js** and **Node.js + MySQL**  
-- 🎨 Designed UI/UX mockups using **Figma** for multiple client projects
+### 🏆 Achievements & Highlights  
+🏅 Built & deployed multiple real-world web projects  
+🚀 Published portfolio + backend using **React.js** and **Node.js + MySQL**  
+🎨 Designed modern UI/UX prototypes in **Figma** for multiple clients  
 
 ---
 
 ### 🌍 Connect with Me  
-
 <p align="center">
-  <a href="mailto:kadiyaparth612@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/parthkadiya" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://www.instagram.com/parthkadiya" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://github.com/parthkadiya" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="mailto:kadiyaparth612@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/parthkadiya" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/parthkadiya" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://github.com/parthkadiya" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 ---
