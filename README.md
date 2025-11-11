@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Parth 👋  
+### Frontend Developer | UI/UX Enthusiast | React.js Lover
 
-<!--
-**parth-kadiya/parth-kadiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 Currently working on: **Doctor Portfolio Website**  
+💼 Internship Experience: SwarnimTouch Solutions, Skill Enhanced, To-Let Globe  
+🎓 B.Sc. in CA & IT — Shreyarth University (CGPI: 8.5)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Skills
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js, Bootstrap
+- UI/UX Design (Figma, Photoshop)
+- MySQL, PHP, REST APIs
+
+---
+
+### 📫 Connect with me
+[LinkedIn](https://linkedin.com/in/your-link) • [Instagram](https://instagram.com/your-link) • [Portfolio](https://yourwebsite.com)
