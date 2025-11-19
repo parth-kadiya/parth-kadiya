@@ -1,12 +1,12 @@
 <!-- 🌟 PARTH KADIYA — GITHUB PROFILE README 🌟 -->
 
 <h1 align="center">👋 Hi, I'm Parth Kadiya</h1>
-<h3 align="center">A Passionate Frontend Developer from Ahmedabad 🇮🇳</h3>
+<h3 align="center">A Passionate MERN Stack Developer from Ahmedabad 🇮🇳</h3>
 
 <!-- Profile Photo -->
 <p align="center">
   <img 
-    src="https://raw.githubusercontent.com/parth-kadiya/parth-kadiya/main/gitavtar.png"
+    src="/mnt/data/gitavtar.png"
     width="250"
     style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
     alt="Parth Kadiya Avatar"
@@ -16,25 +16,49 @@
 ---
 
 ### 🧠 About Me  
-💻 I'm an adaptable and detail-oriented **Frontend Developer** passionate about building responsive and user-friendly web applications.  
+💻 I'm an adaptable and detail-oriented **MERN Stack Developer** passionate about building scalable, modern, and user-friendly web applications.  
 🎓 **B.Sc. in CA & IT** from *Shreyarth University (2022–2025)* with a CGPI of **8.5**  
-💼 Interned at **SwarnimTouch Solutions**, **Skill Enhanced**, and **To-Let Globe**  
+💼 Interned at **SwarnimTouch Solutions** (Web Development Intern)  
 🌱 Currently learning **Advanced React.js** and **Next.js**  
 🎯 Goal: To become a full-stack developer and create meaningful digital experiences.
 
 ---
 
-### ⚙️ Tech Stack  
+### ⚙️ Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,photoshop,mysql,php,git,github,vscode&perline=6" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb,mysql,php,laravel,bootstrap,tailwind,netlify&perline=7" />
 </p>
+
+**Primary / Core**
+- HTML / CSS / JavaScript
+
+**Frontend**
+- React JS  
+- Bootstrap  
+- Tailwind CSS
+
+**Backend**
+- Node JS  
+- Express JS  
+- PHP  
+- Laravel (Learning)
+
+**Databases**
+- MongoDB  
+- MySQL
+
+**Deployment / Hosting / Tools**
+- Netlify  
+- Render  
+- Cloudinary
 
 ---
 
 ### 🚀 Projects Highlight  
 💊 **Doctor Portfolio Website** — Responsive doctor portfolio with background video & animations  
 🧑‍💼 **Employee Management System** — Full CRUD + pagination + search filter using HTML, CSS & JS  
-🎨 **Interactive Portfolio** — React-based animated site with sections for projects, experience & contact
+⚛️ **Interactive Portfolio** — React-based animated site with sections for projects, experience & contact
 
 ---
 
@@ -53,7 +77,7 @@
 ### 🏆 Achievements & Highlights  
 🏅 Built & deployed multiple real-world web projects  
 🚀 Published portfolio + backend using **React.js** and **Node.js + MySQL**  
-🎨 Designed modern UI/UX prototypes in **Figma** for multiple clients  
+📦 Experience deploying apps on Netlify / Render and optimizing for production
 
 ---
 
