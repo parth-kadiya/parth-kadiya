@@ -6,11 +6,11 @@
 <!-- Profile Photo -->
 <p align="center">
   <img 
-    src="https://avatars.githubusercontent.com/u/137335568?v=4"
-    width="180"
-    style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
-    alt="Parth Kadiya Avatar"
-  />
+  src="https://raw.githubusercontent.com/parth-kadiya/parth-kadiya/main/gitavtar.png"
+  width="180"
+  style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
+  alt="Parth Kadiya Avatar"
+/>
 </p>
 
 ---
