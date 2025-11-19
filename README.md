@@ -3,23 +3,25 @@
 <h1 align="center">👋 Hi, I'm Parth Kadiya</h1>
 <h3 align="center">A Passionate Frontend Developer from Ahmedabad 🇮🇳</h3>
 
+<!-- Profile Photo -->
 <p align="center">
   <img 
     src="https://avatars.githubusercontent.com/u/137335568?v=4"
     width="180"
     style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
-  />
-
-  <!-- Developer Illustration -->
-  <img 
-    src="https://illustrations.popsy.co/blue/developer.svg"
-    width="250"
-    style="margin-top: 20px;"
-    alt="Developer Illustration"
+    alt="Parth Kadiya Avatar"
   />
 </p>
 
-
+<!-- Developer Illustration -->
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/parth-kadiya/parth-kadiya/main/gitavtar.png"
+    width="430"
+    style="margin-top: 20px; border-radius: 12px;"
+    alt="Developer Illustration"
+  />
+</p>
 
 ---
 
@@ -95,4 +97,4 @@
 
 ---
 
-⭐️ From [Parth Kadiya](https://github.com/parthkadiya)
+⭐️ From [Parth Kadiya](https://github.com/parth-kadiya)
