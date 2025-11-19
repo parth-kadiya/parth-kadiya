@@ -57,10 +57,6 @@ My complete developer portfolio with projects, skills & contact.
   <img src="https://streak-stats.demolab.com?user=parthkadiya&theme=radical" height="180em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkadiya&layout=compact&theme=vision-friendly-dark" />
-</p>
-
 ---
 
 ### 🏆 Achievements & Highlights  
