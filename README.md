@@ -79,9 +79,9 @@ My complete developer portfolio with projects, skills & contact.
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
-  <!-- LinkedIn (fixed icon visibility) -->
+  <!-- LinkedIn (fully visible icon fix) -->
   <a href="https://www.linkedin.com/in/parth-kadiya" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2"/>
   </a>
 
   <!-- Instagram -->
