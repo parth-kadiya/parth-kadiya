@@ -24,41 +24,18 @@
 
 ---
 
-### ⚙️ Tech Stack
+### ⚙️ Tech Stack (Icons Only)
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb,mysql,php,laravel,bootstrap,tailwind,netlify&perline=7" />
 </p>
 
-**Primary / Core**
-- HTML / CSS / JavaScript
-
-**Frontend**
-- React JS  
-- Bootstrap  
-- Tailwind CSS
-
-**Backend**
-- Node JS  
-- Express JS  
-- PHP  
-- Laravel (Learning)
-
-**Databases**
-- MongoDB  
-- MySQL
-
-**Deployment / Hosting / Tools**
-- Netlify  
-- Render  
-- Cloudinary
-
 ---
 
 ### 🚀 Projects Highlight  
 💊 **Doctor Portfolio Website** — Responsive doctor portfolio with background video & animations  
-🧑‍💼 **Employee Management System** — Full CRUD + pagination + search filter using HTML, CSS & JS  
-⚛️ **Interactive Portfolio** — React-based animated site with sections for projects, experience & contact
+🧑‍💼 **Employee Management System** — CRUD + Pagination + Search Filter  
+⚛️ **Interactive Portfolio** — React-based animated modern portfolio
 
 ---
 
@@ -69,15 +46,15 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkadiya&layout=compact&theme=vision-friendly-dark" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parthkadiya&layout=compact&theme=vision-friendly-dark" />
 </p>
 
 ---
 
 ### 🏆 Achievements & Highlights  
 🏅 Built & deployed multiple real-world web projects  
-🚀 Published portfolio + backend using **React.js** and **Node.js + MySQL**  
-📦 Experience deploying apps on Netlify / Render and optimizing for production
+🚀 Full-stack development with **React.js + Node.js + MySQL**  
+📦 Deployed apps on Netlify, Render & optimized for production
 
 ---
 
