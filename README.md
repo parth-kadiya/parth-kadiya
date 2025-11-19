@@ -18,7 +18,7 @@
 💻 I'm an adaptable and detail-oriented **MERN Stack Developer** passionate about building scalable, modern, and user-friendly web applications.  
 🎓 **B.Sc. in CA & IT** from *Shreyarth University (2022–2025)* with a CGPI of **8.5**  
 💼 Interned at **SwarnimTouch Solutions** (Web Development Intern)  
-🌱 Currently learning **Advanced React.js** and **Next.js**  
+🌱 Currently learning **Advanced React.js**, **Next.js** & Laravel
 🎯 Goal: To become a full-stack developer and create meaningful digital experiences.
 
 ---
