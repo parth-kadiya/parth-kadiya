@@ -72,7 +72,3 @@
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-⭐️ From [Parth Kadiya](https://github.com/parth-kadiya)
