@@ -3,12 +3,11 @@
 <h1 align="center">👋 Hi, I'm Parth Kadiya</h1>
 <h3 align="center">A Passionate MERN Stack Developer from Ahmedabad 🇮🇳</h3>
 
-<!-- Profile Photo -->
+<!-- Profile Photo (uses uploaded image path) -->
 <p align="center">
-  <img 
+  <img
     src="gitavtar.png"
     width="250"
-    style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
     alt="Parth Kadiya Avatar"
   />
 </p>
@@ -27,15 +26,15 @@
 ### ⚙️ Tech Stack (Icons Only)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb,mysql,php,laravel,bootstrap,tailwind,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,node,express,mongodb,mysql,php,bootstrap,tailwind,netlify&perline=7" />
 </p>
 
 ---
 
-### 🚀 Projects Highlight  
-💊 **Doctor Portfolio Website** — Responsive doctor portfolio with background video & animations  
-🧑‍💼 **Employee Management System** — CRUD + Pagination + Search Filter  
-⚛️ **Interactive Portfolio** — React-based animated modern portfolio
+### 🚀 Projects Highlight
+- 🔗 **Social Media Web App** — A MERN-style social platform (posts, likes, comments, basic auth).  
+- 🎆 **Diwali Wish Video Generator** — Create/share short Diwali wish videos (client-side UI + template engine).  
+- 🛍️ **Product Website (Only Client Side)** — Static product landing page with responsive design and animations.
 
 ---
 
@@ -66,10 +65,7 @@
   <a href="https://www.linkedin.com/in/parth-kadiya" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/parthkadiya" target="_blank">
+  <a href="https://www.instagram.com/parth_kadiya_612" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://github.com/parth-kadiya" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
