@@ -68,22 +68,10 @@
   <a href="https://www.instagram.com/parthkadiya" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://github.com/parthkadiya" target="_blank">
+  <a href="https://github.com/parth-kadiya" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
-
----
-
-### 📈 Profile Views  
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=parthkadiya&color=blue&style=flat-square" alt="Profile Views" />
-</p>
-
----
-
-### 💬 Fun Fact  
-> “Great web design is 1% inspiration and 99% iteration.”
 
 ---
 
