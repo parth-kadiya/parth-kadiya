@@ -4,14 +4,12 @@
 <h3 align="center">A Passionate MERN Stack Developer from Ahmedabad 🇮🇳</h3>
 
 <!-- Profile Photo -->
-<p align="center">
-  <img 
-    src="/mnt/data/gitavtar.png"
-    width="250"
-    style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
-    alt="Parth Kadiya Avatar"
-  />
-</p>
+<img 
+  src="gitavtar.png"
+  width="250"
+  style="border-radius: 50%; box-shadow: 0 0 15px rgba(0,0,0,0.3);" 
+  alt="Parth Kadiya Avatar"
+/>
 
 ---
 
