@@ -13,16 +13,6 @@
   />
 </p>
 
-<!-- Developer Illustration -->
-<p align="center">
-  <img 
-    src="https://raw.githubusercontent.com/parth-kadiya/parth-kadiya/main/gitavtar.png"
-    width="430"
-    style="margin-top: 20px; border-radius: 12px;"
-    alt="Developer Illustration"
-  />
-</p>
-
 ---
 
 ### 🧠 About Me  
