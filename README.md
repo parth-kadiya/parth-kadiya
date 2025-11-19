@@ -26,7 +26,7 @@
 ### ⚙️ Tech Stack (Icons Only)
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,bootstrap,tailwind,netlify&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,php,bootstrap,tailwind,netlify&perline=6" />
 </p>
 
 ---
