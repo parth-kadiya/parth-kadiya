@@ -1,14 +1,7 @@
-<!-- 🌟 PARTH KADIYA — GITHUB PROFILE README (SVG ICON VERSION) 🌟 -->
+<!-- 🌟 PARTH KADIYA — GITHUB PROFILE README 🌟 -->
 
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/regular/hand-sparkles.svg" width="30" />
-  Hi, I'm Parth Kadiya
-</h1>
-
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/laptop-code.svg" width="20" />
-  A Passionate Frontend Developer from Ahmedabad 🇮🇳
-</h3>
+<h1 align="center">👋 Hi, I'm Parth Kadiya</h1>
+<h3 align="center">A Passionate Frontend Developer from Ahmedabad 🇮🇳</h3>
 
 <!-- Profile Photo -->
 <p align="center">
@@ -22,7 +15,7 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/user.svg" width="20" /> About Me
+### 🧠 About Me  
 💻 I'm an adaptable and detail-oriented **Frontend Developer** passionate about building responsive and user-friendly web applications.  
 🎓 **B.Sc. in CA & IT** from *Shreyarth University (2022–2025)* with a CGPI of **8.5**  
 💼 Interned at **SwarnimTouch Solutions**, **Skill Enhanced**, and **To-Let Globe**  
@@ -31,21 +24,21 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/tools.svg" width="20" /> Tech Stack
+### ⚙️ Tech Stack  
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,figma,photoshop,mysql,php,git,github,vscode&perline=6" />
 </p>
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/rocket.svg" width="20" /> Projects Highlight
-🧑‍⚕️ **Doctor Portfolio Website** — Responsive doctor portfolio with background video & animations  
-🗂️ **Employee Management System** — Full CRUD + pagination + search filter using HTML, CSS & JS  
+### 🚀 Projects Highlight  
+💊 **Doctor Portfolio Website** — Responsive doctor portfolio with background video & animations  
+🧑‍💼 **Employee Management System** — Full CRUD + pagination + search filter using HTML, CSS & JS  
 🎨 **Interactive Portfolio** — React-based animated site with sections for projects, experience & contact
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/chart-line.svg" width="20" /> GitHub Stats & Activity
+### 📊 GitHub Stats & Activity  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parthkadiya&show_icons=true&theme=radical" height="180em"/>
   <img src="https://streak-stats.demolab.com?user=parthkadiya&theme=radical" height="180em"/>
@@ -57,14 +50,14 @@
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/trophy.svg" width="20" /> Achievements & Highlights
+### 🏆 Achievements & Highlights  
 🏅 Built & deployed multiple real-world web projects  
 🚀 Published portfolio + backend using **React.js** and **Node.js + MySQL**  
 🎨 Designed modern UI/UX prototypes in **Figma** for multiple clients  
 
 ---
 
-### <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/master/svgs/solid/link.svg" width="20" /> Connect with Me
+### 🌍 Connect with Me  
 <p align="center">
   <a href="mailto:kadiyaparth612@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
